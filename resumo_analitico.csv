@@ -1,0 +1,33 @@
+﻿indicador,item,valor
+faturamento_por_loja,Curitiba Batel,742678.02
+faturamento_por_loja,BH Centro,730271.98
+faturamento_por_loja,Salvador Orla,644132.05
+faturamento_por_loja,Brasília Asa Sul,514680.79
+faturamento_por_loja,Manaus Centro,308804.16
+ticket_medio_por_loja,Curitiba Batel,5669.3
+ticket_medio_por_loja,Salvador Orla,5367.77
+ticket_medio_por_loja,Brasília Asa Sul,5095.85
+ticket_medio_por_loja,Manaus Centro,4349.35
+ticket_medio_por_loja,BH Centro,4125.83
+top5_produtos_quantidade,Smartphone,354.0
+top5_produtos_quantidade,Webcam HD,348.48
+top5_produtos_quantidade,Fone Bluetooth,338.23
+top5_produtos_quantidade,Cadeira Gamer,285.0
+top5_produtos_quantidade,Mouse sem fio,268.23
+faturamento_por_regiao,Sul,742678.02
+faturamento_por_regiao,Sudeste,730271.98
+faturamento_por_regiao,Nordeste,644132.05
+faturamento_por_regiao,Centro-Oeste,514680.79
+faturamento_por_regiao,Norte,308804.16
+faturamento_mensal,01/2025,223089.02
+faturamento_mensal,02/2025,265167.5
+faturamento_mensal,03/2025,256108.37
+faturamento_mensal,04/2025,224490.45
+faturamento_mensal,05/2025,232054.33
+faturamento_mensal,06/2025,249706.28
+faturamento_mensal,07/2025,368179.02
+faturamento_mensal,08/2025,213301.92
+faturamento_mensal,09/2025,303585.77
+faturamento_mensal,10/2025,191750.2
+faturamento_mensal,11/2025,151258.64
+faturamento_mensal,12/2025,261875.5

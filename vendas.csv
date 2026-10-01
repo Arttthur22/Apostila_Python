@@ -1,0 +1,601 @@
+data,loja,regiao,categoria,produto,quantidade,preco_unitario
+2025-04-05,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Notebook,1.0,3290.45
+2025-07-17,BH Centro,Sudeste,Acessórios,Webcam HD,4.0,179.08
+2025-07-02,Salvador Orla,Nordeste,Acessórios,Teclado Mecânico,4.0,316.4
+2025-01-31,Curitiba Batel,Sul,Acessórios,Fone Bluetooth,3.0,238.57
+2025-08-15,Brasília Asa Sul,Centro-Oeste,Acessórios,Fone Bluetooth,2.0,252.23
+2025-09-21,Curitiba Batel,Sul,Móveis,Cadeira Gamer,1.0,1226.37
+2025-12-05,Curitiba Batel,Sul,Eletrônicos,Notebook,1.0,3587.67
+2025-12-06,Salvador Orla,Nordeste,Acessórios,Teclado Mecânico,4.0,322.27
+2025-06-29,BH Centro,Sudeste,Eletrônicos,"Monitor 24""",1.0,946.15
+2025-12-17,BH Centro,Sudeste,Eletrônicos,Notebook,8.0,3331.96
+2025-07-12,Curitiba Batel,Sul,Acessórios,Mouse sem fio,2.0,93.42
+2025-08-23,Curitiba Batel,Sul,Móveis,Mesa de Escritório,6.0,799.49
+2025-08-08,BH Centro,Sudeste,Acessórios,Webcam HD,6.0,165.14
+2025-12-31,Curitiba Batel,Sul,Acessórios,Webcam HD,4.0,176.59
+2025-09-27,Curitiba Batel,Sul,Acessórios,Webcam HD,8.0,183.95
+2025-02-13,Curitiba Batel,Sul,Acessórios,Webcam HD,30.0,186.62
+2025-01-27,Curitiba Batel,Sul,Acessórios,Mouse sem fio,2.0,89.24
+2025-05-30,Salvador Orla,Nordeste,Eletrônicos,Smartphone,3.0,2183.81
+2025-07-08,BH Centro,Sudeste,Móveis,Cadeira Gamer,2.0,1272.54
+2025-09-02,Manaus Centro,Norte,Acessórios,Fone Bluetooth,,
+2025-06-25,Manaus Centro,Norte,Acessórios,Mouse sem fio,3.0,94.05
+2025-07-07,Curitiba Batel,Sul,Eletrônicos,Tablet,7.0,1674.04
+2025-12-03,Curitiba Batel,Sul,Eletrônicos,Smartphone,3.0,2235.26
+2025-05-03,Salvador Orla,Nordeste,Móveis,Mesa de Escritório,,741.06
+2025-06-30,Brasília Asa Sul,Centro-Oeste,Acessórios,Webcam HD,7.0,169.99
+2025-07-23,Salvador Orla,Nordeste,Acessórios,Teclado Mecânico,8.0,381.18
+2025-06-20,Brasília Asa Sul,Centro-Oeste,Acessórios,Fone Bluetooth,1.0,
+2025-12-20,Salvador Orla,Nordeste,Móveis,Cadeira Gamer,8.0,1104.78
+2025-12-18,Salvador Orla,Nordeste,Acessórios,Mouse sem fio,5.0,87.37
+2025-07-07,BH Centro,Sudeste,Acessórios,Fone Bluetooth,37.0,256.3
+2025-06-14,Brasília Asa Sul,Centro-Oeste,Acessórios,Fone Bluetooth,3.0,248.46
+2025-08-03,BH Centro,Sudeste,Eletrônicos,"Monitor 24""",8.0,864.87
+2025-03-08,Salvador Orla,Nordeste,Eletrônicos,Notebook,5.0,3358.42
+2025-06-05,Brasília Asa Sul,Centro-Oeste,Acessórios,Mouse sem fio,1.0,86.15
+2025-03-21,BH Centro,Sudeste,Móveis,Cadeira Gamer,4.0,1136.68
+2025-02-22,Salvador Orla,Nordeste,Eletrônicos,Notebook,2.0,3979.14
+2025-02-04,BH Centro,Sudeste,Móveis,Cadeira Gamer,8.0,1221.42
+2025-08-03,Brasília Asa Sul,Centro-Oeste,Móveis,Cadeira Gamer,3.0,1263.85
+2025-01-01,BH Centro,Sudeste,Eletrônicos,"Monitor 24""",2.0,873.59
+2025-08-24,Manaus Centro,Norte,Acessórios,Teclado Mecânico,5.0,346.09
+2025-06-07,BH Centro,Sudeste,Eletrônicos,Smartphone,4.0,
+2025-05-14,Manaus Centro,Norte,Acessórios,Webcam HD,1.0,151.36
+2025-10-08,Brasília Asa Sul,Centro-Oeste,Acessórios,Webcam HD,7.0,165.12
+2025-07-16,Salvador Orla,Nordeste,Eletrônicos,Tablet,7.0,1337.04
+2025-09-25,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Notebook,6.0,3027.55
+2025-09-16,Brasília Asa Sul,Centro-Oeste,Móveis,Mesa de Escritório,5.0,742.62
+2025-01-12,Manaus Centro,Norte,Acessórios,Fone Bluetooth,4.0,269.87
+2025-03-20,BH Centro,Sudeste,Móveis,Cadeira Gamer,5.0,1196.8
+2025-07-28,Salvador Orla,Nordeste,Acessórios,Teclado Mecânico,5.0,377.1
+2025-12-23,BH Centro,Sudeste,Acessórios,Webcam HD,2.0,184.44
+2025-02-26,Salvador Orla,Nordeste,Acessórios,Webcam HD,1.0,188.45
+2025-02-08,BH Centro,Sudeste,Eletrônicos,Smartphone,3.0,1891.89
+2025-12-10,Salvador Orla,Nordeste,Eletrônicos,Tablet,4.0,1547.16
+2025-12-19,Salvador Orla,Nordeste,Acessórios,Fone Bluetooth,2.0,260.93
+2025-03-03,Curitiba Batel,Sul,Acessórios,Fone Bluetooth,1.0,241.35
+2025-05-27,Salvador Orla,Nordeste,Eletrônicos,Notebook,7.0,3617.5
+2025-08-17,Brasília Asa Sul,Centro-Oeste,Acessórios,Mouse sem fio,3.0,93.06
+2025-03-13,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Smartphone,5.0,1934.05
+2025-04-30,Curitiba Batel,Sul,Acessórios,Webcam HD,5.0,167.87
+2025-05-25,Salvador Orla,Nordeste,Acessórios,Teclado Mecânico,6.0,325.13
+2025-08-23,Manaus Centro,Norte,Móveis,Mesa de Escritório,6.0,804.15
+2025-04-23,BH Centro,Sudeste,Acessórios,Webcam HD,3.0,183.53
+2025-05-31,BH Centro,Sudeste,Eletrônicos,Tablet,7.0,1428.67
+2025-04-16,BH Centro,Sudeste,Móveis,Mesa de Escritório,,801.28
+2025-10-05,Salvador Orla,Nordeste,Acessórios,Fone Bluetooth,7.0,258.56
+2025-02-25,Curitiba Batel,Sul,Eletrônicos,Tablet,4.0,1555.64
+2025-03-26,Brasília Asa Sul,Centro-Oeste,Móveis,Mesa de Escritório,1.0,874.49
+2025-04-02,Salvador Orla,Nordeste,Eletrônicos,Tablet,7.0,1614.93
+2025-11-27,Curitiba Batel,Sul,Eletrônicos,Notebook,1.0,3289.73
+2025-12-11,Manaus Centro,Norte,Acessórios,Fone Bluetooth,7.0,275.25
+2025-07-02,Brasília Asa Sul,Centro-Oeste,Acessórios,Webcam HD,1.0,174.27
+2025-02-27,BH Centro,Sudeste,Eletrônicos,Smartphone,2.0,2125.38
+2025-10-03,Curitiba Batel,Sul,Acessórios,Fone Bluetooth,5.0,251.02
+2025-06-29,Curitiba Batel,Sul,Eletrônicos,Smartphone,8.0,1950.54
+2025-11-07,BH Centro,Sudeste,Acessórios,Teclado Mecânico,4.0,312.04
+2025-05-12,BH Centro,Sudeste,Acessórios,Fone Bluetooth,1.0,247.43
+2025-12-31,Manaus Centro,Norte,Eletrônicos,Tablet,2.0,1359.66
+2025-10-22,Curitiba Batel,Sul,Eletrônicos,"Monitor 24""",8.0,952.23
+2025-03-23,Curitiba Batel,Sul,Acessórios,Mouse sem fio,6.0,98.19
+2025-09-22,Brasília Asa Sul,Centro-Oeste,Acessórios,Teclado Mecânico,1.0,333.26
+2025-04-15,Salvador Orla,Nordeste,Móveis,Mesa de Escritório,4.0,814.49
+2025-05-08,Manaus Centro,Norte,Acessórios,Fone Bluetooth,3.0,239.12
+2025-04-02,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Smartphone,2.0,1924.58
+2025-09-07,Curitiba Batel,Sul,Móveis,Cadeira Gamer,7.0,1255.76
+2025-04-06,Curitiba Batel,Sul,Acessórios,Teclado Mecânico,5.0,349.19
+2025-08-22,Manaus Centro,Norte,Acessórios,Webcam HD,2.0,198.79
+2025-08-01,Salvador Orla,Nordeste,Eletrônicos,Notebook,6.0,3398.73
+2025-10-02,Manaus Centro,Norte,Eletrônicos,Tablet,4.0,1589.94
+2025-12-29,BH Centro,Sudeste,Acessórios,Webcam HD,1.0,181.05
+2025-01-04,Brasília Asa Sul,Centro-Oeste,Móveis,Cadeira Gamer,4.0,1257.3
+2025-12-28,Salvador Orla,Nordeste,Acessórios,Fone Bluetooth,2.0,243.29
+2025-02-09,BH Centro,Sudeste,Móveis,Cadeira Gamer,2.0,1196.43
+2025-07-12,Salvador Orla,Nordeste,Móveis,Cadeira Gamer,8.0,1191.68
+2025-05-05,Salvador Orla,Nordeste,Eletrônicos,Tablet,6.0,1424.75
+2025-08-22,BH Centro,Sudeste,Móveis,Cadeira Gamer,2.0,1247.67
+2025-09-21,Curitiba Batel,Sul,Eletrônicos,"Monitor 24""",7.0,935.11
+2025-11-10,Brasília Asa Sul,Centro-Oeste,Eletrônicos,"Monitor 24""",5.0,932.05
+2025-05-27,BH Centro,Sudeste,Acessórios,Teclado Mecânico,7.0,382.28
+2025-12-07,Curitiba Batel,Sul,Acessórios,Teclado Mecânico,6.0,380.44
+2025-04-28,Curitiba Batel,Sul,Eletrônicos,Smartphone,3.0,1955.01
+2025-03-16,Curitiba Batel,Sul,Móveis,Cadeira Gamer,5.0,1226.86
+2025-05-19,Manaus Centro,Norte,Eletrônicos,Smartphone,5.0,1925.17
+2025-07-12,Brasília Asa Sul,Centro-Oeste,Móveis,Cadeira Gamer,6.0,1201.68
+2025-09-01,BH Centro,Sudeste,Eletrônicos,Notebook,2.0,3374.05
+2025-10-31,Manaus Centro,Norte,Acessórios,Webcam HD,3.0,197.5
+2025-03-24,Brasília Asa Sul,Centro-Oeste,Acessórios,Webcam HD,2.0,183.93
+2025-04-21,BH Centro,Sudeste,Acessórios,Webcam HD,3.0,177.65
+2025-12-09,Brasília Asa Sul,Centro-Oeste,Acessórios,Teclado Mecânico,2.0,375.07
+2025-06-10,BH Centro,Sudeste,Acessórios,Fone Bluetooth,1.0,217.44
+2025-03-30,Manaus Centro,Norte,Acessórios,Webcam HD,8.0,158.25
+2025-12-26,Salvador Orla,Nordeste,Eletrônicos,"Monitor 24""",1.0,942.98
+2025-06-13,Salvador Orla,Nordeste,Acessórios,Webcam HD,8.0,180.65
+2025-12-26,BH Centro,Sudeste,Acessórios,Mouse sem fio,1.0,91.35
+2025-12-02,Manaus Centro,Norte,Acessórios,Fone Bluetooth,7.0,230.1
+2025-11-27,BH Centro,Sudeste,Acessórios,Mouse sem fio,3.0,89.87
+2025-08-01,BH Centro,Sudeste,Acessórios,Mouse sem fio,,100.82
+2025-10-19,BH Centro,Sudeste,Eletrônicos,Notebook,3.0,3673.08
+2025-12-17,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Smartphone,4.0,2020.36
+2025-04-09,BH Centro,Sudeste,Eletrônicos,"Monitor 24""",4.0,876.29
+2025-01-14,Manaus Centro,Norte,Eletrônicos,Smartphone,5.0,1952.65
+2025-04-28,Salvador Orla,Nordeste,Acessórios,Fone Bluetooth,4.0,218.06
+2025-08-21,BH Centro,Sudeste,Acessórios,Teclado Mecânico,5.0,355.41
+2025-07-19,BH Centro,Sudeste,Acessórios,Teclado Mecânico,7.0,367.76
+2025-01-30,BH Centro,Sudeste,Acessórios,Fone Bluetooth,4.0,226.37
+2025-07-24,Salvador Orla,Nordeste,Móveis,Cadeira Gamer,3.0,1152.38
+2025-03-05,Brasília Asa Sul,Centro-Oeste,Acessórios,Mouse sem fio,2.0,83.75
+2025-07-04,BH Centro,Sudeste,Eletrônicos,Notebook,3.0,3297.28
+2025-07-30,Brasília Asa Sul,Centro-Oeste,Acessórios,Webcam HD,2.0,180.58
+2025-08-21,BH Centro,Sudeste,Acessórios,Mouse sem fio,2.0,78.74
+2025-05-31,Brasília Asa Sul,Centro-Oeste,Acessórios,Teclado Mecânico,8.0,362.9
+2025-05-30,Manaus Centro,Norte,Acessórios,Mouse sem fio,1.0,94.07
+2025-09-05,Brasília Asa Sul,Centro-Oeste,Acessórios,Mouse sem fio,4.0,88.64
+2025-10-01,Salvador Orla,Nordeste,Eletrônicos,Notebook,7.0,2979.05
+2025-10-22,Brasília Asa Sul,Centro-Oeste,Acessórios,Mouse sem fio,8.0,84.62
+2025-05-02,BH Centro,Sudeste,Acessórios,Webcam HD,2.0,193.32
+2025-06-04,BH Centro,Sudeste,Eletrônicos,Tablet,2.0,1249.98
+2025-05-01,BH Centro,Sudeste,Acessórios,Teclado Mecânico,3.0,342.7
+2025-07-12,Curitiba Batel,Sul,Eletrônicos,Notebook,5.0,3252.2
+2025-02-16,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Tablet,8.0,1572.41
+2025-06-06,Salvador Orla,Nordeste,Acessórios,Fone Bluetooth,2.0,239.87
+2025-03-10,Brasília Asa Sul,Centro-Oeste,Móveis,Mesa de Escritório,2.0,819.39
+2025-07-14,BH Centro,Sudeste,Eletrônicos,"Monitor 24""",,930.53
+2025-11-07,Brasília Asa Sul,Centro-Oeste,Eletrônicos,"Monitor 24""",7.0,999.16
+2025-12-26,BH Centro,Sudeste,Acessórios,Fone Bluetooth,1.0,246.96
+2025-06-12,BH Centro,Sudeste,Móveis,Mesa de Escritório,4.0,818.05
+2025-01-21,Salvador Orla,Nordeste,Móveis,Cadeira Gamer,1.0,1093.08
+2025-03-25,Manaus Centro,Norte,Eletrônicos,Notebook,2.0,3749.99
+2025-02-08,Salvador Orla,Nordeste,Eletrônicos,"Monitor 24""",8.0,858.93
+2025-10-05,BH Centro,Sudeste,Móveis,Cadeira Gamer,1.0,1159.63
+2025-12-26,Salvador Orla,Nordeste,Eletrônicos,Notebook,3.0,3495.33
+2025-07-22,BH Centro,Sudeste,Móveis,Cadeira Gamer,8.0,1087.47
+2025-03-06,Manaus Centro,Norte,Eletrônicos,"Monitor 24""",5.0,912.35
+2025-01-08,Salvador Orla,Nordeste,Móveis,Mesa de Escritório,1.0,846.44
+2025-12-23,BH Centro,Sudeste,Eletrônicos,"Monitor 24""",4.0,915.82
+2025-04-26,BH Centro,Sudeste,Acessórios,Fone Bluetooth,8.0,226.17
+2025-02-10,BH Centro,Sudeste,Acessórios,Teclado Mecânico,4.0,347.4
+2025-03-06,Manaus Centro,Norte,Eletrônicos,Smartphone,5.0,2089.04
+2025-04-04,Curitiba Batel,Sul,Acessórios,Mouse sem fio,5.0,79.86
+2025-08-28,Brasília Asa Sul,Centro-Oeste,Acessórios,Mouse sem fio,6.0,84.2
+2025-11-22,Salvador Orla,Nordeste,Acessórios,Webcam HD,2.0,189.47
+2025-04-11,Salvador Orla,Nordeste,Móveis,Mesa de Escritório,7.0,812.96
+2025-09-08,BH Centro,Sudeste,Acessórios,Teclado Mecânico,8.0,358.65
+2025-01-24,Manaus Centro,Norte,Acessórios,Fone Bluetooth,,277.89
+2025-01-04,Curitiba Batel,Sul,Acessórios,Fone Bluetooth,7.0,257.03
+2025-01-21,Salvador Orla,Nordeste,Acessórios,Fone Bluetooth,7.0,259.87
+2025-12-03,Salvador Orla,Nordeste,Móveis,Cadeira Gamer,6.0,1395.17
+2025-08-01,Salvador Orla,Nordeste,Eletrônicos,Tablet,,1480.76
+2025-10-21,Manaus Centro,Norte,Eletrônicos,Smartphone,4.0,1904.25
+2025-01-08,BH Centro,Sudeste,Eletrônicos,Tablet,7.0,1538.5
+2025-01-09,Curitiba Batel,Sul,Eletrônicos,Notebook,2.0,3592.19
+2025-11-06,Curitiba Batel,Sul,Eletrônicos,Smartphone,7.0,1936.79
+2025-02-07,Curitiba Batel,Sul,Eletrônicos,Notebook,8.0,3283.2
+2025-02-26,BH Centro,Sudeste,Acessórios,Webcam HD,6.0,204.95
+2025-07-09,BH Centro,Sudeste,Acessórios,Webcam HD,3.0,183.53
+2025-08-10,BH Centro,Sudeste,Acessórios,Teclado Mecânico,5.0,334.62
+2025-03-25,Curitiba Batel,Sul,Acessórios,Fone Bluetooth,1.0,263.74
+2025-06-12,Curitiba Batel,Sul,Acessórios,Webcam HD,8.0,178.82
+2025-09-04,Salvador Orla,Nordeste,Eletrônicos,Smartphone,3.0,1969.65
+2025-06-11,Salvador Orla,Nordeste,Móveis,Mesa de Escritório,1.0,826.99
+2025-05-20,Curitiba Batel,Sul,Acessórios,Mouse sem fio,7.0,83.02
+2025-01-27,Curitiba Batel,Sul,Móveis,Mesa de Escritório,6.0,816.93
+2025-06-14,BH Centro,Sudeste,Eletrônicos,Smartphone,5.0,2229.55
+2025-10-21,Salvador Orla,Nordeste,Acessórios,Fone Bluetooth,1.0,256.99
+2025-08-17,Curitiba Batel,Sul,Acessórios,Teclado Mecânico,7.0,342.1
+2025-11-22,BH Centro,Sudeste,Acessórios,Fone Bluetooth,6.0,242.39
+2025-02-16,Curitiba Batel,Sul,Acessórios,Fone Bluetooth,7.0,243.84
+2025-01-05,Curitiba Batel,Sul,Eletrônicos,Smartphone,7.0,1969.52
+2025-07-20,BH Centro,Sudeste,Eletrônicos,Tablet,2.0,
+2025-03-07,Salvador Orla,Nordeste,Eletrônicos,"Monitor 24""",2.0,949.48
+2025-08-05,Salvador Orla,Nordeste,Eletrônicos,Tablet,8.0,1344.01
+2025-11-26,Salvador Orla,Nordeste,Acessórios,Teclado Mecânico,5.0,368.1
+2025-05-04,Salvador Orla,Nordeste,Acessórios,Teclado Mecânico,4.0,342.03
+2025-07-20,Salvador Orla,Nordeste,Acessórios,Teclado Mecânico,3.0,357.92
+2025-09-06,Curitiba Batel,Sul,Eletrônicos,Tablet,6.0,1398.57
+2025-02-24,Brasília Asa Sul,Centro-Oeste,Móveis,Mesa de Escritório,7.0,863.77
+2025-11-24,Salvador Orla,Nordeste,Eletrônicos,Notebook,1.0,3761.58
+2025-03-16,Curitiba Batel,Sul,Eletrônicos,Tablet,5.0,1586.36
+2025-10-23,Salvador Orla,Nordeste,Eletrônicos,Smartphone,8.0,1818.23
+2025-08-29,Curitiba Batel,Sul,Eletrônicos,Tablet,,1574.62
+2025-02-21,Curitiba Batel,Sul,Móveis,Mesa de Escritório,3.0,819.43
+2025-09-22,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Tablet,8.0,1355.53
+2025-03-13,Manaus Centro,Norte,Móveis,Mesa de Escritório,1.0,798.83
+2025-08-07,Manaus Centro,Norte,Acessórios,Fone Bluetooth,4.0,255.47
+2025-12-17,Curitiba Batel,Sul,Acessórios,Teclado Mecânico,4.0,361.68
+2025-12-14,Salvador Orla,Nordeste,Acessórios,Fone Bluetooth,7.0,252.66
+2025-11-15,Brasília Asa Sul,Centro-Oeste,Eletrônicos,"Monitor 24""",2.0,915.73
+2025-06-30,Curitiba Batel,Sul,Acessórios,Webcam HD,4.0,
+2025-07-24,Brasília Asa Sul,Centro-Oeste,Móveis,Mesa de Escritório,2.0,858.85
+2025-04-20,Curitiba Batel,Sul,Eletrônicos,"Monitor 24""",7.0,745.18
+2025-12-03,BH Centro,Sudeste,Acessórios,Webcam HD,,176.57
+2025-06-24,BH Centro,Sudeste,Eletrônicos,"Monitor 24""",4.0,891.11
+2025-10-09,Brasília Asa Sul,Centro-Oeste,Acessórios,Webcam HD,4.0,161.08
+2025-05-12,BH Centro,Sudeste,Acessórios,Webcam HD,2.0,181.02
+2025-09-28,BH Centro,Sudeste,Acessórios,Fone Bluetooth,8.0,268.73
+2025-03-23,Curitiba Batel,Sul,Acessórios,Webcam HD,6.0,168.27
+2025-09-25,BH Centro,Sudeste,Eletrônicos,"Monitor 24""",3.0,918.17
+2025-01-17,Curitiba Batel,Sul,Eletrônicos,Notebook,4.0,3307.68
+2025-02-08,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Notebook,6.0,3358.9
+2025-05-09,BH Centro,Sudeste,Acessórios,Fone Bluetooth,6.0,272.16
+2025-06-25,Brasília Asa Sul,Centro-Oeste,Móveis,Mesa de Escritório,4.0,773.96
+2025-09-17,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Smartphone,25.0,2055.47
+2025-05-12,Curitiba Batel,Sul,Acessórios,Fone Bluetooth,6.0,221.93
+2025-01-07,BH Centro,Sudeste,Acessórios,Webcam HD,6.0,200.11
+2025-04-29,Salvador Orla,Nordeste,Eletrônicos,"Monitor 24""",5.0,932.54
+2025-06-10,BH Centro,Sudeste,Acessórios,Webcam HD,1.0,178.03
+2025-07-18,Curitiba Batel,Sul,Eletrônicos,Tablet,4.0,1551.8
+2025-08-24,Manaus Centro,Norte,Móveis,Cadeira Gamer,5.0,1098.49
+2025-04-01,Manaus Centro,Norte,Acessórios,Mouse sem fio,,96.39
+2025-08-11,Brasília Asa Sul,Centro-Oeste,Acessórios,Mouse sem fio,5.0,88.25
+2025-08-19,Curitiba Batel,Sul,Eletrônicos,Smartphone,3.0,1975.51
+2025-10-11,Salvador Orla,Nordeste,Acessórios,Fone Bluetooth,5.0,242.63
+2025-07-10,Salvador Orla,Nordeste,Móveis,Cadeira Gamer,2.0,1158.19
+2025-10-23,Curitiba Batel,Sul,Eletrônicos,Notebook,1.0,3645.88
+2025-03-22,Salvador Orla,Nordeste,Acessórios,Webcam HD,6.0,182.76
+2025-09-17,BH Centro,Sudeste,Acessórios,Fone Bluetooth,8.0,259.78
+2025-01-17,BH Centro,Sudeste,Acessórios,Webcam HD,7.0,179.91
+2025-02-07,Salvador Orla,Nordeste,Acessórios,Teclado Mecânico,5.0,360.78
+2025-11-12,BH Centro,Sudeste,Acessórios,Fone Bluetooth,1.0,243.72
+2025-06-23,BH Centro,Sudeste,Eletrônicos,Tablet,8.0,1700.68
+2025-08-15,Brasília Asa Sul,Centro-Oeste,Acessórios,Teclado Mecânico,4.0,317.07
+2025-08-09,Manaus Centro,Norte,Eletrônicos,Smartphone,3.0,2151.31
+2025-09-11,Salvador Orla,Nordeste,Acessórios,Mouse sem fio,8.0,97.39
+2025-03-31,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Notebook,6.0,3321.05
+2025-03-07,Manaus Centro,Norte,Acessórios,Teclado Mecânico,6.0,396.81
+2025-01-16,BH Centro,Sudeste,Acessórios,Teclado Mecânico,3.0,370.91
+2025-11-12,Curitiba Batel,Sul,Eletrônicos,Notebook,8.0,3703.94
+2025-03-23,Curitiba Batel,Sul,Acessórios,Webcam HD,4.0,180.3
+2025-07-29,BH Centro,Sudeste,Acessórios,Fone Bluetooth,5.0,246.74
+2025-06-16,Brasília Asa Sul,Centro-Oeste,Acessórios,Webcam HD,7.0,177.74
+2025-03-01,Curitiba Batel,Sul,Eletrônicos,Notebook,6.0,3582.01
+2025-06-01,Curitiba Batel,Sul,Eletrônicos,Smartphone,2.0,2168.14
+2025-01-31,BH Centro,Sudeste,Acessórios,Fone Bluetooth,3.0,252.72
+2025-03-06,BH Centro,Sudeste,Eletrônicos,Smartphone,3.0,1890.63
+2025-02-20,Manaus Centro,Norte,Eletrônicos,Tablet,8.0,1574.2
+2025-10-28,BH Centro,Sudeste,Acessórios,Teclado Mecânico,6.0,369.34
+2025-07-27,BH Centro,Sudeste,Eletrônicos,Smartphone,3.0,2078.56
+2025-12-04,BH Centro,Sudeste,Acessórios,Teclado Mecânico,6.0,365.66
+2025-06-09,Curitiba Batel,Sul,Eletrônicos,Smartphone,6.0,1967.49
+2025-03-15,Salvador Orla,Nordeste,Eletrônicos,Smartphone,4.0,1888.52
+2025-08-11,Curitiba Batel,Sul,Acessórios,Mouse sem fio,4.0,85.31
+2025-12-06,BH Centro,Sudeste,Acessórios,Webcam HD,8.0,162.34
+2025-07-14,BH Centro,Sudeste,Eletrônicos,Smartphone,5.0,2028.43
+2025-01-07,Brasília Asa Sul,Centro-Oeste,Eletrônicos,"Monitor 24""",2.0,895.49
+2025-04-21,Salvador Orla,Nordeste,Móveis,Mesa de Escritório,6.0,778.88
+2025-12-04,Salvador Orla,Nordeste,Móveis,Mesa de Escritório,5.0,658.13
+2025-07-09,Salvador Orla,Nordeste,Acessórios,Mouse sem fio,5.0,83.26
+2025-12-14,Brasília Asa Sul,Centro-Oeste,Acessórios,Fone Bluetooth,6.0,266.81
+2025-07-05,BH Centro,Sudeste,Eletrônicos,Tablet,8.0,1440.18
+2025-01-05,Curitiba Batel,Sul,Acessórios,Teclado Mecânico,3.0,357.57
+2025-11-15,Salvador Orla,Nordeste,Acessórios,Mouse sem fio,4.0,82.49
+2025-10-06,Curitiba Batel,Sul,Eletrônicos,"Monitor 24""",2.0,977.69
+2025-09-19,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Notebook,6.0,3469.75
+2025-12-21,Curitiba Batel,Sul,Eletrônicos,Smartphone,4.0,2034.8
+2025-03-13,Brasília Asa Sul,Centro-Oeste,Móveis,Mesa de Escritório,3.0,911.64
+2025-11-27,Brasília Asa Sul,Centro-Oeste,Acessórios,Fone Bluetooth,6.0,272.75
+2025-03-26,Curitiba Batel,Sul,Acessórios,Fone Bluetooth,4.0,245.4
+2025-12-21,Manaus Centro,Norte,Acessórios,Fone Bluetooth,4.0,241.1
+2025-03-11,Salvador Orla,Nordeste,Acessórios,Webcam HD,33.0,176.48
+2025-07-20,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Notebook,3.0,3607.08
+2025-10-16,Curitiba Batel,Sul,Eletrônicos,Notebook,2.0,3477.9
+2025-01-29,Curitiba Batel,Sul,Eletrônicos,"Monitor 24""",7.0,878.66
+2025-01-25,Salvador Orla,Nordeste,Acessórios,Fone Bluetooth,1.0,272.01
+2025-11-07,BH Centro,Sudeste,Acessórios,Teclado Mecânico,3.0,347.6
+2025-01-23,Curitiba Batel,Sul,Acessórios,Fone Bluetooth,6.0,284.49
+2025-08-13,Manaus Centro,Norte,Acessórios,Fone Bluetooth,2.0,251.36
+2025-12-09,Salvador Orla,Nordeste,Móveis,Mesa de Escritório,6.0,885.7
+2025-08-13,BH Centro,Sudeste,Eletrônicos,Smartphone,6.0,2042.88
+2025-06-25,Curitiba Batel,Sul,Acessórios,Mouse sem fio,6.0,95.2
+2025-06-02,BH Centro,Sudeste,Acessórios,Mouse sem fio,3.0,86.09
+2025-08-21,BH Centro,Sudeste,Acessórios,Fone Bluetooth,1.0,237.19
+2025-07-28,Manaus Centro,Norte,Móveis,Cadeira Gamer,8.0,1233.1
+2025-07-03,Curitiba Batel,Sul,Eletrônicos,"Monitor 24""",3.0,953.38
+2025-02-26,Curitiba Batel,Sul,Móveis,Mesa de Escritório,7.0,801.93
+2025-08-30,Salvador Orla,Nordeste,Eletrônicos,Tablet,2.0,1384.22
+2025-09-28,BH Centro,Sudeste,Acessórios,Mouse sem fio,2.0,82.65
+2025-09-16,BH Centro,Sudeste,Acessórios,Mouse sem fio,7.0,82.29
+2025-01-28,Salvador Orla,Nordeste,Móveis,Cadeira Gamer,8.0,1072.73
+2025-09-14,Salvador Orla,Nordeste,Acessórios,Fone Bluetooth,7.0,
+2025-09-24,Manaus Centro,Norte,Eletrônicos,"Monitor 24""",7.0,960.75
+2025-03-08,Salvador Orla,Nordeste,Eletrônicos,Notebook,2.0,3497.18
+2025-11-06,Curitiba Batel,Sul,Eletrônicos,Tablet,8.0,1296.56
+2025-07-11,Brasília Asa Sul,Centro-Oeste,Móveis,Cadeira Gamer,6.0,1186.27
+2025-06-22,Manaus Centro,Norte,Eletrônicos,Notebook,2.0,3465.81
+2025-09-21,Brasília Asa Sul,Centro-Oeste,Móveis,Cadeira Gamer,2.0,1350.91
+2025-07-06,Manaus Centro,Norte,Acessórios,Mouse sem fio,7.0,82.13
+2025-07-18,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Smartphone,3.0,1953.12
+2025-04-24,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Tablet,7.0,1653.53
+2025-12-05,BH Centro,Sudeste,Acessórios,Mouse sem fio,2.0,92.43
+2025-12-20,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Tablet,3.0,1550.7
+2025-02-17,Curitiba Batel,Sul,Eletrônicos,Smartphone,3.0,2013.75
+2025-09-25,Salvador Orla,Nordeste,Acessórios,Teclado Mecânico,3.0,356.93
+2025-01-09,Salvador Orla,Nordeste,Acessórios,Teclado Mecânico,6.0,366.33
+2025-05-15,Manaus Centro,Norte,Eletrônicos,Smartphone,8.0,1902.86
+2025-12-21,Manaus Centro,Norte,Eletrônicos,"Monitor 24""",8.0,947.42
+2025-03-05,BH Centro,Sudeste,Eletrônicos,"Monitor 24""",6.0,825.86
+2025-05-18,Brasília Asa Sul,Centro-Oeste,Acessórios,Teclado Mecânico,2.0,
+2025-03-22,Brasília Asa Sul,Centro-Oeste,Acessórios,Webcam HD,8.0,181.93
+2025-09-23,Curitiba Batel,Sul,Acessórios,Webcam HD,36.0,173.34
+2025-06-19,BH Centro,Sudeste,Móveis,Mesa de Escritório,5.0,798.91
+2025-08-05,BH Centro,Sudeste,Acessórios,Webcam HD,6.0,173.28
+2025-12-11,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Tablet,7.0,1403.55
+2025-07-10,Curitiba Batel,Sul,Eletrônicos,Smartphone,8.0,1957.57
+2025-09-25,Manaus Centro,Norte,Acessórios,Teclado Mecânico,5.0,326.82
+2025-02-05,Curitiba Batel,Sul,Móveis,Mesa de Escritório,5.0,815.49
+2025-03-20,Manaus Centro,Norte,Móveis,Mesa de Escritório,6.0,744.8
+2025-12-12,Curitiba Batel,Sul,Eletrônicos,"Monitor 24""",3.0,938.45
+2025-11-10,Brasília Asa Sul,Centro-Oeste,Eletrônicos,"Monitor 24""",3.0,836.2
+2025-08-28,BH Centro,Sudeste,Eletrônicos,Notebook,6.0,3381.08
+2025-05-19,Salvador Orla,Nordeste,Eletrônicos,Smartphone,1.0,1925.05
+2025-03-14,Brasília Asa Sul,Centro-Oeste,Acessórios,Mouse sem fio,3.0,97.16
+2025-11-07,Manaus Centro,Norte,Acessórios,Mouse sem fio,6.0,91.78
+2025-10-14,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Tablet,8.0,1480.94
+2025-03-30,BH Centro,Sudeste,Eletrônicos,Tablet,5.0,1544.88
+2025-08-04,Curitiba Batel,Sul,Móveis,Cadeira Gamer,4.0,1048.28
+2025-08-14,BH Centro,Sudeste,Acessórios,Fone Bluetooth,4.0,249.35
+2025-06-24,BH Centro,Sudeste,Móveis,Cadeira Gamer,6.0,1343.82
+2025-12-05,Salvador Orla,Nordeste,Móveis,Mesa de Escritório,5.0,806.35
+2025-02-15,Salvador Orla,Nordeste,Eletrônicos,Tablet,1.0,1506.11
+2025-04-05,Brasília Asa Sul,Centro-Oeste,Eletrônicos,"Monitor 24""",5.0,929.6
+2025-02-04,Brasília Asa Sul,Centro-Oeste,Móveis,Mesa de Escritório,4.0,842.99
+2025-09-10,Brasília Asa Sul,Centro-Oeste,Acessórios,Teclado Mecânico,6.0,308.05
+2025-08-24,Brasília Asa Sul,Centro-Oeste,Eletrônicos,"Monitor 24""",8.0,809.15
+2025-12-27,BH Centro,Sudeste,Acessórios,Teclado Mecânico,8.0,354.42
+2025-07-17,BH Centro,Sudeste,Acessórios,Mouse sem fio,5.0,86.14
+2025-02-24,Salvador Orla,Nordeste,Móveis,Mesa de Escritório,3.0,862.98
+2025-06-14,Brasília Asa Sul,Centro-Oeste,Eletrônicos,"Monitor 24""",4.0,882.98
+2025-02-02,BH Centro,Sudeste,Móveis,Mesa de Escritório,2.0,707.14
+2025-09-02,Curitiba Batel,Sul,Móveis,Mesa de Escritório,8.0,739.14
+2025-09-04,Salvador Orla,Nordeste,Eletrônicos,Smartphone,7.0,1670.04
+2025-11-10,BH Centro,Sudeste,Eletrônicos,Smartphone,7.0,1971.9
+2025-05-05,Curitiba Batel,Sul,Acessórios,Mouse sem fio,3.0,88.98
+2025-04-24,Manaus Centro,Norte,Eletrônicos,Notebook,3.0,
+2025-01-27,Salvador Orla,Nordeste,Eletrônicos,"Monitor 24""",7.0,958.26
+2025-06-01,BH Centro,Sudeste,Acessórios,Fone Bluetooth,5.0,267.98
+2025-06-23,Brasília Asa Sul,Centro-Oeste,Móveis,Mesa de Escritório,6.0,791.82
+2025-10-03,Curitiba Batel,Sul,Móveis,Mesa de Escritório,4.0,697.53
+2025-10-03,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Smartphone,4.0,2074.07
+2025-02-21,BH Centro,Sudeste,Móveis,Cadeira Gamer,6.0,1239.99
+2025-04-15,Salvador Orla,Nordeste,Eletrônicos,Notebook,7.0,3564.97
+2025-07-06,Curitiba Batel,Sul,Acessórios,Webcam HD,3.0,190.6
+2025-05-03,BH Centro,Sudeste,Móveis,Cadeira Gamer,7.0,1116.13
+2025-01-10,Manaus Centro,Norte,Móveis,Cadeira Gamer,2.0,1344.63
+2025-11-05,BH Centro,Sudeste,Eletrônicos,"Monitor 24""",4.0,848.19
+2025-09-24,BH Centro,Sudeste,Móveis,Cadeira Gamer,8.0,1253.94
+2025-07-09,Curitiba Batel,Sul,Eletrônicos,Smartphone,8.0,1797.52
+2025-04-26,Salvador Orla,Nordeste,Acessórios,Mouse sem fio,8.0,84.98
+2025-11-04,Brasília Asa Sul,Centro-Oeste,Acessórios,Fone Bluetooth,3.0,272.75
+2025-01-13,Manaus Centro,Norte,Eletrônicos,Tablet,7.0,1476.52
+2025-06-12,BH Centro,Sudeste,Eletrônicos,Notebook,8.0,3676.38
+2025-10-20,Curitiba Batel,Sul,Acessórios,Webcam HD,8.0,182.56
+2025-12-14,BH Centro,Sudeste,Eletrônicos,Tablet,1.0,1490.55
+2025-04-02,Salvador Orla,Nordeste,Acessórios,Teclado Mecânico,6.0,378.64
+2025-08-26,Manaus Centro,Norte,Acessórios,Fone Bluetooth,8.0,246.45
+2025-03-11,Salvador Orla,Nordeste,Eletrônicos,Tablet,7.0,1339.73
+2025-02-12,Salvador Orla,Nordeste,Móveis,Cadeira Gamer,2.0,1142.17
+2025-05-09,Curitiba Batel,Sul,Eletrônicos,Notebook,7.0,3615.75
+2025-11-20,Manaus Centro,Norte,Acessórios,Webcam HD,1.0,184.27
+2025-09-09,Curitiba Batel,Sul,Acessórios,Webcam HD,4.0,163.08
+2025-06-28,BH Centro,Sudeste,Eletrônicos,Tablet,6.0,1434.81
+2025-04-14,Curitiba Batel,Sul,Eletrônicos,"Monitor 24""",4.0,868.59
+2025-02-21,BH Centro,Sudeste,Eletrônicos,Notebook,6.0,3423.25
+2025-04-09,BH Centro,Sudeste,Móveis,Mesa de Escritório,2.0,733.96
+2025-02-25,BH Centro,Sudeste,Móveis,Mesa de Escritório,5.0,769.84
+2025-03-10,Curitiba Batel,Sul,Eletrônicos,"Monitor 24""",6.0,860.66
+2025-09-08,Salvador Orla,Nordeste,Eletrônicos,Notebook,6.0,3662.02
+2025-02-18,Curitiba Batel,Sul,Eletrônicos,Smartphone,3.0,2097.09
+2025-01-18,Curitiba Batel,Sul,Eletrônicos,Notebook,3.0,3469.38
+2025-07-17,Manaus Centro,Norte,Móveis,Cadeira Gamer,3.0,1171.77
+2025-04-15,Brasília Asa Sul,Centro-Oeste,Móveis,Cadeira Gamer,4.0,1210.07
+2025-06-15,Salvador Orla,Nordeste,Eletrônicos,Smartphone,5.0,1902.01
+2025-02-21,BH Centro,Sudeste,Acessórios,Webcam HD,3.0,167.61
+2025-03-18,Manaus Centro,Norte,Eletrônicos,Smartphone,4.0,1887.17
+2025-06-10,BH Centro,Sudeste,Eletrônicos,Tablet,3.0,1442.87
+2025-09-09,Curitiba Batel,Sul,Acessórios,Mouse sem fio,2.0,83.72
+2025-06-01,Manaus Centro,Norte,Acessórios,Webcam HD,6.0,181.75
+2025-07-17,Salvador Orla,Nordeste,Móveis,Cadeira Gamer,7.0,1252.54
+2025-07-10,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Notebook,3.0,3166.71
+2025-04-09,Salvador Orla,Nordeste,Eletrônicos,Smartphone,7.0,2003.02
+2025-04-13,Salvador Orla,Nordeste,Eletrônicos,"Monitor 24""",5.0,888.12
+2025-06-05,BH Centro,Sudeste,Eletrônicos,Tablet,2.0,1530.74
+2025-01-12,BH Centro,Sudeste,Móveis,Mesa de Escritório,3.0,799.38
+2025-09-08,Curitiba Batel,Sul,Acessórios,Webcam HD,1.0,164.3
+2025-08-13,BH Centro,Sudeste,Eletrônicos,Tablet,1.0,1386.38
+2025-04-22,Brasília Asa Sul,Centro-Oeste,Móveis,Mesa de Escritório,3.0,801.41
+2025-05-17,BH Centro,Sudeste,Acessórios,Fone Bluetooth,4.0,265.43
+2025-04-30,Salvador Orla,Nordeste,Acessórios,Mouse sem fio,7.0,78.04
+2025-08-26,Brasília Asa Sul,Centro-Oeste,Acessórios,Fone Bluetooth,2.0,255.19
+2025-10-05,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Smartphone,7.0,2142.75
+2025-02-09,Curitiba Batel,Sul,Móveis,Mesa de Escritório,2.0,792.65
+2025-05-31,Curitiba Batel,Sul,Eletrônicos,Notebook,2.0,3615.54
+2025-01-06,Manaus Centro,Norte,Eletrônicos,Smartphone,6.0,1915.63
+2025-06-15,Salvador Orla,Nordeste,Eletrônicos,"Monitor 24""",7.0,893.55
+2025-04-01,Brasília Asa Sul,Centro-Oeste,Eletrônicos,"Monitor 24""",5.0,812.47
+2025-05-03,Manaus Centro,Norte,Eletrônicos,Smartphone,1.0,1718.68
+2025-06-16,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Notebook,1.0,3697.98
+2025-04-29,BH Centro,Sudeste,Acessórios,Teclado Mecânico,4.0,329.32
+2025-05-24,Salvador Orla,Nordeste,Móveis,Mesa de Escritório,4.0,778.13
+2025-10-07,BH Centro,Sudeste,Eletrônicos,Smartphone,8.0,1833.63
+2025-10-23,Salvador Orla,Nordeste,Eletrônicos,"Monitor 24""",3.0,823.86
+2025-01-03,Manaus Centro,Norte,Acessórios,Mouse sem fio,2.0,89.06
+2025-05-18,Curitiba Batel,Sul,Móveis,Mesa de Escritório,8.0,764.98
+2025-11-06,Curitiba Batel,Sul,Acessórios,Teclado Mecânico,2.0,357.94
+2025-07-13,BH Centro,Sudeste,Acessórios,Webcam HD,1.0,184.89
+2025-03-16,Manaus Centro,Norte,Acessórios,Mouse sem fio,33.0,91.73
+2025-08-05,BH Centro,Sudeste,Acessórios,Fone Bluetooth,4.0,253.58
+2025-02-22,BH Centro,Sudeste,Eletrônicos,Smartphone,5.0,2189.33
+2025-01-08,BH Centro,Sudeste,Móveis,Cadeira Gamer,8.0,1123.13
+2025-08-19,BH Centro,Sudeste,Móveis,Cadeira Gamer,8.0,1196.04
+2025-07-08,Curitiba Batel,Sul,Eletrônicos,Notebook,3.0,3737.86
+2025-10-04,Curitiba Batel,Sul,Acessórios,Webcam HD,8.0,193.66
+2025-05-06,Curitiba Batel,Sul,Eletrônicos,Notebook,6.0,3201.43
+2025-11-08,BH Centro,Sudeste,Acessórios,Webcam HD,1.0,176.63
+2025-06-03,BH Centro,Sudeste,Móveis,Cadeira Gamer,8.0,1297.78
+2025-09-27,Curitiba Batel,Sul,Eletrônicos,Smartphone,2.0,2060.97
+2025-02-06,BH Centro,Sudeste,Acessórios,Fone Bluetooth,5.0,252.93
+2025-02-05,Salvador Orla,Nordeste,Eletrônicos,Smartphone,7.0,1973.88
+2025-10-13,BH Centro,Sudeste,Acessórios,Mouse sem fio,2.0,87.93
+2025-11-01,Curitiba Batel,Sul,Móveis,Mesa de Escritório,3.0,813.83
+2025-12-10,Curitiba Batel,Sul,Eletrônicos,Notebook,4.0,3447.0
+2025-04-29,Curitiba Batel,Sul,Eletrônicos,Tablet,8.0,1496.17
+2025-01-09,BH Centro,Sudeste,Móveis,Mesa de Escritório,2.0,
+2025-12-24,BH Centro,Sudeste,Eletrônicos,Tablet,6.0,1438.97
+2025-08-08,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Smartphone,4.0,2063.86
+2025-04-01,BH Centro,Sudeste,Acessórios,Fone Bluetooth,1.0,293.71
+2025-10-06,Curitiba Batel,Sul,Acessórios,Mouse sem fio,6.0,80.4
+2025-11-26,Curitiba Batel,Sul,Acessórios,Teclado Mecânico,7.0,356.8
+2025-04-14,Curitiba Batel,Sul,Eletrônicos,Tablet,5.0,1431.58
+2025-10-08,Curitiba Batel,Sul,Móveis,Mesa de Escritório,,827.72
+2025-10-15,Brasília Asa Sul,Centro-Oeste,Acessórios,Mouse sem fio,2.0,90.25
+2025-07-03,Brasília Asa Sul,Centro-Oeste,Eletrônicos,"Monitor 24""",4.0,941.14
+2025-08-19,BH Centro,Sudeste,Móveis,Mesa de Escritório,5.0,856.42
+2025-04-09,Curitiba Batel,Sul,Móveis,Mesa de Escritório,5.0,809.24
+2025-12-06,BH Centro,Sudeste,Acessórios,Fone Bluetooth,2.0,266.98
+2025-12-25,Curitiba Batel,Sul,Eletrônicos,Notebook,5.0,3007.7
+2025-12-25,Salvador Orla,Nordeste,Acessórios,Mouse sem fio,3.0,98.59
+2025-09-27,BH Centro,Sudeste,Acessórios,Mouse sem fio,6.0,92.03
+2025-01-16,Curitiba Batel,Sul,Eletrônicos,Smartphone,7.0,2129.34
+2025-05-14,Manaus Centro,Norte,Acessórios,Teclado Mecânico,6.0,324.38
+2025-06-12,BH Centro,Sudeste,Móveis,Cadeira Gamer,1.0,
+2025-12-17,Curitiba Batel,Sul,Eletrônicos,Smartphone,8.0,2017.51
+2025-07-19,Salvador Orla,Nordeste,Acessórios,Webcam HD,1.0,179.82
+2025-07-15,BH Centro,Sudeste,Eletrônicos,Smartphone,8.0,2033.97
+2025-02-23,BH Centro,Sudeste,Acessórios,Webcam HD,1.0,
+2025-10-17,BH Centro,Sudeste,Acessórios,Fone Bluetooth,5.0,223.52
+2025-05-03,Manaus Centro,Norte,Eletrônicos,Notebook,1.0,3704.5
+2025-02-03,BH Centro,Sudeste,Móveis,Mesa de Escritório,1.0,800.4
+2025-12-27,BH Centro,Sudeste,Eletrônicos,Smartphone,6.0,1975.55
+2025-03-11,BH Centro,Sudeste,Acessórios,Mouse sem fio,6.0,82.06
+2025-01-06,BH Centro,Sudeste,Eletrônicos,Smartphone,1.0,2060.37
+2025-01-29,Salvador Orla,Nordeste,Móveis,Mesa de Escritório,8.0,684.12
+2025-06-15,BH Centro,Sudeste,Acessórios,Webcam HD,3.0,187.0
+2025-02-07,Salvador Orla,Nordeste,Móveis,Cadeira Gamer,3.0,1092.57
+2025-11-04,Salvador Orla,Nordeste,Acessórios,Fone Bluetooth,3.0,
+2025-07-07,Brasília Asa Sul,Centro-Oeste,Acessórios,Fone Bluetooth,4.0,248.21
+2025-04-29,BH Centro,Sudeste,Acessórios,Teclado Mecânico,2.0,374.56
+2025-01-02,Brasília Asa Sul,Centro-Oeste,Acessórios,Webcam HD,4.0,178.07
+2025-06-25,Salvador Orla,Nordeste,Móveis,Cadeira Gamer,2.0,1150.02
+2025-02-25,BH Centro,Sudeste,Eletrônicos,Notebook,1.0,3393.61
+2025-12-23,Brasília Asa Sul,Centro-Oeste,Acessórios,Teclado Mecânico,3.0,376.73
+2025-04-17,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Smartphone,6.0,2064.36
+2025-06-23,BH Centro,Sudeste,Eletrônicos,"Monitor 24""",7.0,879.18
+2025-01-07,Manaus Centro,Norte,Móveis,Cadeira Gamer,3.0,1182.98
+2025-02-17,Curitiba Batel,Sul,Eletrônicos,"Monitor 24""",3.0,815.37
+2025-03-17,Salvador Orla,Nordeste,Acessórios,Webcam HD,7.0,184.2
+2025-01-19,Manaus Centro,Norte,Acessórios,Fone Bluetooth,6.0,223.6
+2025-09-22,Curitiba Batel,Sul,Eletrônicos,"Monitor 24""",7.0,940.6
+2025-12-12,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Tablet,8.0,1511.58
+2025-12-26,Curitiba Batel,Sul,Acessórios,Mouse sem fio,7.0,102.89
+2025-04-08,Brasília Asa Sul,Centro-Oeste,Acessórios,Webcam HD,,168.12
+2025-10-15,Salvador Orla,Nordeste,Acessórios,Teclado Mecânico,4.0,347.84
+2025-07-03,BH Centro,Sudeste,Móveis,Mesa de Escritório,4.0,886.32
+2025-01-17,Curitiba Batel,Sul,Móveis,Cadeira Gamer,3.0,1285.78
+2025-02-03,Curitiba Batel,Sul,Acessórios,Webcam HD,2.0,172.48
+2025-07-19,BH Centro,Sudeste,Acessórios,Teclado Mecânico,6.0,354.7
+2025-06-04,BH Centro,Sudeste,Eletrônicos,"Monitor 24""",6.0,900.11
+2025-01-04,Curitiba Batel,Sul,Acessórios,Fone Bluetooth,7.0,254.23
+2025-12-06,BH Centro,Sudeste,Eletrônicos,Smartphone,2.0,1916.16
+2025-09-24,BH Centro,Sudeste,Eletrônicos,Tablet,4.0,1491.96
+2025-07-03,Brasília Asa Sul,Centro-Oeste,Móveis,Mesa de Escritório,2.0,723.29
+2025-12-27,Salvador Orla,Nordeste,Acessórios,Fone Bluetooth,8.0,252.03
+2025-12-21,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Smartphone,3.0,2054.0
+2025-12-22,Curitiba Batel,Sul,Acessórios,Teclado Mecânico,2.0,345.22
+2025-04-05,Manaus Centro,Norte,Móveis,Mesa de Escritório,5.0,722.48
+2025-11-18,Salvador Orla,Nordeste,Móveis,Cadeira Gamer,8.0,1271.17
+2025-07-04,BH Centro,Sudeste,Eletrônicos,"Monitor 24""",8.0,919.68
+2025-09-23,BH Centro,Sudeste,Acessórios,Fone Bluetooth,1.0,239.11
+2025-11-10,Salvador Orla,Nordeste,Acessórios,Mouse sem fio,3.0,88.48
+2025-03-01,BH Centro,Sudeste,Eletrônicos,"Monitor 24""",2.0,818.96
+2025-06-13,Curitiba Batel,Sul,Eletrônicos,"Monitor 24""",3.0,844.63
+2025-02-17,Manaus Centro,Norte,Eletrônicos,"Monitor 24""",5.0,870.96
+2025-04-13,BH Centro,Sudeste,Móveis,Mesa de Escritório,3.0,858.96
+2025-05-31,BH Centro,Sudeste,Acessórios,Webcam HD,1.0,173.09
+2025-11-09,Manaus Centro,Norte,Móveis,Cadeira Gamer,5.0,1246.1
+2025-11-11,Salvador Orla,Nordeste,Móveis,Cadeira Gamer,1.0,1161.24
+2025-05-23,BH Centro,Sudeste,Móveis,Mesa de Escritório,2.0,811.9
+2025-05-01,Manaus Centro,Norte,Eletrônicos,Smartphone,1.0,1983.03
+2025-07-13,Manaus Centro,Norte,Móveis,Cadeira Gamer,1.0,1262.86
+2025-11-29,Salvador Orla,Nordeste,Eletrônicos,Notebook,4.0,3387.69
+2025-12-23,Salvador Orla,Nordeste,Acessórios,Fone Bluetooth,7.0,226.41
+2025-03-24,BH Centro,Sudeste,Acessórios,Mouse sem fio,7.0,82.54
+2025-03-10,BH Centro,Sudeste,Eletrônicos,Tablet,1.0,1452.13
+2025-09-15,Salvador Orla,Nordeste,Eletrônicos,Smartphone,1.0,1850.11
+2025-04-21,BH Centro,Sudeste,Eletrônicos,Smartphone,3.0,2049.23
+2025-03-14,Salvador Orla,Nordeste,Móveis,Cadeira Gamer,6.0,1166.46
+2025-01-12,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Tablet,6.0,1713.71
+2025-05-28,BH Centro,Sudeste,Eletrônicos,Tablet,7.0,1343.61
+2025-05-24,Salvador Orla,Nordeste,Móveis,Mesa de Escritório,3.0,809.77
+2025-07-25,BH Centro,Sudeste,Eletrônicos,Smartphone,2.0,1864.65
+2025-03-15,Brasília Asa Sul,Centro-Oeste,Móveis,Mesa de Escritório,1.0,776.32
+2025-09-18,BH Centro,Sudeste,Móveis,Mesa de Escritório,2.0,806.79
+2025-09-06,Salvador Orla,Nordeste,Acessórios,Mouse sem fio,1.0,77.44
+2025-06-18,Salvador Orla,Nordeste,Eletrônicos,Smartphone,7.0,2028.42
+2025-03-08,Curitiba Batel,Sul,Eletrônicos,Smartphone,3.0,2228.35
+2025-07-05,Salvador Orla,Nordeste,Eletrônicos,"Monitor 24""",7.0,875.51
+2025-09-04,Brasília Asa Sul,Centro-Oeste,Acessórios,Mouse sem fio,5.0,91.4
+2025-05-17,Salvador Orla,Nordeste,Eletrônicos,Smartphone,5.0,2122.99
+2025-04-07,Brasília Asa Sul,Centro-Oeste,Acessórios,Fone Bluetooth,4.0,247.54
+2025-07-04,Manaus Centro,Norte,Eletrônicos,Smartphone,7.0,1930.28
+2025-05-10,Curitiba Batel,Sul,Acessórios,Mouse sem fio,1.0,77.71
+2025-05-27,Curitiba Batel,Sul,Eletrônicos,Notebook,1.0,3634.61
+2025-05-08,BH Centro,Sudeste,Acessórios,Webcam HD,4.0,178.78
+2025-04-21,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Notebook,4.0,3287.34
+2025-09-19,Salvador Orla,Nordeste,Eletrônicos,Smartphone,5.0,2015.19
+2025-06-17,Curitiba Batel,Sul,Eletrônicos,Smartphone,6.0,1929.96
+2025-06-20,BH Centro,Sudeste,Móveis,Cadeira Gamer,5.0,1161.95
+2025-08-27,Manaus Centro,Norte,Eletrônicos,Notebook,3.0,3627.32
+2025-05-12,Curitiba Batel,Sul,Acessórios,Fone Bluetooth,,
+2025-02-06,Salvador Orla,Nordeste,Acessórios,Mouse sem fio,7.0,95.66
+2025-11-08,BH Centro,Sudeste,Acessórios,Mouse sem fio,2.0,82.45
+2025-01-21,Manaus Centro,Norte,Acessórios,Teclado Mecânico,5.0,336.08
+2025-07-28,BH Centro,Sudeste,Móveis,Cadeira Gamer,5.0,1338.45
+2025-04-08,BH Centro,Sudeste,Eletrônicos,Tablet,7.0,1601.46
+2025-03-20,Brasília Asa Sul,Centro-Oeste,Móveis,Cadeira Gamer,6.0,1207.03
+2025-01-16,Manaus Centro,Norte,Eletrônicos,Tablet,4.0,1415.35
+2025-11-25,BH Centro,Sudeste,Móveis,Mesa de Escritório,,
+2025-06-06,Curitiba Batel,Sul,Acessórios,Mouse sem fio,3.0,90.4
+2025-05-06,Brasília Asa Sul,Centro-Oeste,Acessórios,Webcam HD,4.0,180.41
+2025-09-28,Brasília Asa Sul,Centro-Oeste,Móveis,Cadeira Gamer,2.0,1193.46
+2025-01-15,Curitiba Batel,Sul,Acessórios,Webcam HD,6.0,179.67
+2025-07-26,Curitiba Batel,Sul,Móveis,Cadeira Gamer,2.0,1184.56
+2025-06-30,Brasília Asa Sul,Centro-Oeste,Acessórios,Mouse sem fio,6.0,82.21
+2025-07-22,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Notebook,7.0,3391.53
+2025-02-15,Brasília Asa Sul,Centro-Oeste,Acessórios,Fone Bluetooth,8.0,263.72
+2025-12-14,Salvador Orla,Nordeste,Eletrônicos,Smartphone,1.0,1835.8
+2025-03-29,BH Centro,Sudeste,Móveis,Cadeira Gamer,7.0,1186.35
+2025-09-05,Manaus Centro,Norte,Eletrônicos,"Monitor 24""",1.0,855.73
+2025-09-30,Brasília Asa Sul,Centro-Oeste,Eletrônicos,"Monitor 24""",3.0,906.01
+2025-05-06,Brasília Asa Sul,Centro-Oeste,Eletrônicos,"Monitor 24""",2.0,879.01
+2025-02-17,BH Centro,Sudeste,Acessórios,Teclado Mecânico,2.0,381.03
+2025-04-19,BH Centro,Sudeste,Acessórios,Mouse sem fio,2.0,92.74
+2025-10-22,Brasília Asa Sul,Centro-Oeste,Móveis,Mesa de Escritório,1.0,737.03
+2025-11-27,BH Centro,Sudeste,Acessórios,Fone Bluetooth,7.0,260.07
+2025-12-08,Manaus Centro,Norte,Eletrônicos,"Monitor 24""",1.0,858.17
+2025-03-24,Curitiba Batel,Sul,Eletrônicos,Notebook,4.0,3378.83
+2025-08-10,Salvador Orla,Nordeste,Eletrônicos,Notebook,6.0,3565.9
+2025-02-25,Manaus Centro,Norte,Eletrônicos,Tablet,8.0,1455.74
+2025-09-17,Curitiba Batel,Sul,Móveis,Mesa de Escritório,7.0,842.86
+2025-06-01,Curitiba Batel,Sul,Acessórios,Mouse sem fio,2.0,85.82
+2025-09-18,Salvador Orla,Nordeste,Móveis,Cadeira Gamer,8.0,1155.44
+2025-09-08,Salvador Orla,Nordeste,Eletrônicos,Smartphone,6.0,1921.24
+2025-12-29,Curitiba Batel,Sul,Eletrônicos,Notebook,2.0,3381.22
+2025-06-28,Salvador Orla,Nordeste,Móveis,Cadeira Gamer,4.0,
+2025-05-05,Manaus Centro,Norte,Eletrônicos,Smartphone,8.0,2075.46
+2025-07-12,Curitiba Batel,Sul,Eletrônicos,Notebook,4.0,3859.09
+2025-03-01,BH Centro,Sudeste,Acessórios,Fone Bluetooth,2.0,284.01
+2025-02-10,Curitiba Batel,Sul,Móveis,Mesa de Escritório,8.0,750.53
+2025-07-09,Curitiba Batel,Sul,Acessórios,Teclado Mecânico,8.0,351.48
+2025-10-29,BH Centro,Sudeste,Eletrônicos,Notebook,8.0,3253.0
+2025-07-14,BH Centro,Sudeste,Móveis,Cadeira Gamer,8.0,1144.01
+2025-10-13,Salvador Orla,Nordeste,Móveis,Cadeira Gamer,7.0,1154.63
+2025-03-06,Curitiba Batel,Sul,Móveis,Cadeira Gamer,4.0,1123.88
+2025-06-14,Manaus Centro,Norte,Móveis,Mesa de Escritório,2.0,749.51
+2025-08-12,BH Centro,Sudeste,Eletrônicos,"Monitor 24""",5.0,892.21
+2025-05-07,BH Centro,Sudeste,Móveis,Mesa de Escritório,2.0,741.6
+2025-01-06,Brasília Asa Sul,Centro-Oeste,Eletrônicos,Tablet,4.0,1575.79
+2025-01-27,Manaus Centro,Norte,Móveis,Cadeira Gamer,6.0,1133.92
+2025-12-05,BH Centro,Sudeste,Acessórios,Mouse sem fio,,105.17
+2025-08-09,BH Centro,Sudeste,Acessórios,Webcam HD,3.0,175.13
+2025-04-07,BH Centro,Sudeste,Acessórios,Teclado Mecânico,3.0,351.51
+2025-04-05,Salvador Orla,Nordeste,Acessórios,Teclado Mecânico,6.0,322.8
